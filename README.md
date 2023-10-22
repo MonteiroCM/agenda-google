@@ -16,6 +16,7 @@ Este script em PHP permite capturar eventos de uma agenda. É uma ferramenta sim
 
 1. Crie um service account e gere o arquivo JSON.
 2. Coloque o arquivo JSON na raiz do projeto com o nome de keys.json.
+3. Utilize o client_email que está no arquivo keys.json e conceda a ele as permissões necessárias para a manipulação da agenda.
 
 ## Executar
 
